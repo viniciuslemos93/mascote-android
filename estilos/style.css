@@ -1,0 +1,83 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Android';
+    src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
+}
+header {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #73F0C0, #247053);
+}
+body {
+    background-color: #C5EBD6;
+}
+/*header > h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+header > p {
+    color: white;
+    font-weight: bold;
+}
+nav {
+    text-align: left;
+}
+nav > a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+article {
+    text-align: center;
+}
+article > p {
+    text-align: center;
+}
+main {
+    background-color: white;
+    width: 800px;    
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    font-family: 'Android';
+    color:  #247053;
+    text-align: left;
+    margin: 20px;
+}
+.conteudo{
+    text-align: justify;
+    background-image: ;
+    margin: 20px;
+    text-indent: 30px;
+    
+}
+h3 {
+    font-family: 'Android';
+    color:  #247053;
+    text-align: left;
+    margin: 20px;
+    background-image: linear-gradient(to right, #73F0C0, #247053);
+}
+article > img {
+    margin: auto;
+    
+}
+#base {
+    background-color: #73F0C0;
+    border-radius: 5px;
+    margin: 10px;
+}
+#base > p#tituloBase{
+    text-align: left;
+    color: white;
+    margin: auto;
+    font-weight: bold;
+    background-color: #247053    
+}
+#base > p {
+    text-indent: 30px;
+}
