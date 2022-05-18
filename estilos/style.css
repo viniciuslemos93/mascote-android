@@ -1,83 +1,63 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @font-face {
     font-family: 'Android';
-    src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
+    src: url(../fontes/idroid.otf) format('opentype');
+    font-weight: normal;
+}
+/*
+#C5EBD6
+#83E1AD
+#3DDC84
+#2FA866
+#1A5C37
+#063D1E
+*/
+:root { /*Todas as propriedas que forem aqui dentro, servirá para o documento inteiro*/
+    --cor0: #C5EBD6;
+    --cor1: #83E1AD;
+    --cor2: #3DDC84;
+    --cor3: #2FA866;
+    --cor4: #1A5C37;
+    --cor5: #063D1E;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', cursive;
+    --fonte-android: 'Android', cursive;
+}
+* {
+    margin: 0px;
+    padding: 0px;
 }
 header {
     text-align: center;
-    background-image: linear-gradient(to bottom, #73F0C0, #247053);
+    background-color:var(--cor4);
+    font-family: var(--fonte-destaque);
 }
-body {
-    background-color: #C5EBD6;
-}
-/*header > h1 {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+header > h1 {
     color: white;
-    font-weight: bold;
+    font-family: var(--fonte-destaque);
 }
 header > p {
     color: white;
-    font-weight: bold;
 }
 nav {
-    text-align: left;
+    background-color: var(--cor5);
 }
-nav > a {
-    text-decoration: none;
-    margin-right: 10px;
-    color: white;
-    font-weight: bold;
-    margin-left: 10px;
-}
-article {
-    text-align: center;
-}
-article > p {
-    text-align: center;
+body {
+    background-color: var(--cor0);
+    font-family: var(--fonte-padrao);
 }
 main {
     background-color: white;
-    width: 800px;    
-    margin-left: auto;
-    margin-right: auto;
 }
-h2 {
-    font-family: 'Android';
-    color:  #247053;
-    text-align: left;
-    margin: 20px;
+main h1 {
+    font-family: var(--fonte-android);
 }
-.conteudo{
-    text-align: justify;
-    background-image: ;
-    margin: 20px;
-    text-indent: 30px;
-    
+main h2 {
+    font-family: var(--fonte-android);
 }
-h3 {
-    font-family: 'Android';
-    color:  #247053;
-    text-align: left;
-    margin: 20px;
-    background-image: linear-gradient(to right, #73F0C0, #247053);
-}
-article > img {
-    margin: auto;
-    
-}
-#base {
-    background-color: #73F0C0;
-    border-radius: 5px;
-    margin: 10px;
-}
-#base > p#tituloBase{
-    text-align: left;
+footer {
+    background-color: var(--cor5);
     color: white;
-    margin: auto;
-    font-weight: bold;
-    background-color: #247053    
-}
-#base > p {
-    text-indent: 30px;
 }
