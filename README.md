@@ -1,5 +1,5 @@
 <h1 align="center">Curiosidades sobre o Mascote do Android</h1>
-<hr>
+
 Projeto de estudo para criação de Web Site, desenvolvido em HTML e CSS.
 
 Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
@@ -13,7 +13,7 @@ Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML 
 Deploy: https://viniciuslemos93.github.io/mascote-android/
 # Gif do resultado
 <div align="center">
-<img align="center" alt="Design do site" height="400" width="500" src="./imagens/gif-projeto-android.gif.gif">
+<img align="center" alt="Design do site" height="400" width="500" src="./imagens/gif-projeto-android.gif">
 </div
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
