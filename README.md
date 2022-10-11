@@ -4,9 +4,9 @@ Projeto de estudo para criação de Web Site, desenvolvido em HTML e CSS.
 
 Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
 <hr>
+
 - Focado em Tags Semânticas
 - Responsividade da página com dispositivos mobile
-
 <hr>
 <h3> Projeto iniciado no dia 25/05/2022 e finalizado no dia 27/05/2022. </h3>
 <hr>
