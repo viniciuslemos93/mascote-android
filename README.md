@@ -1,5 +1,7 @@
 <h1 align="center">Curiosidades sobre o Mascote do Android</h1>
 
+![GitHub](https://img.shields.io/github/license/viniciuslemos93/projeto-cordel)
+
 Projeto de estudo para criação de Web Site, desenvolvido em HTML e CSS.
 
 Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML e CSS do Curso em Video do Prof. Gustavo Guanabara.
