@@ -11,7 +11,7 @@ Fiz este projeto com intuito de praticar as habilidades durante o curso de HTML 
 <h3> Projeto iniciado no dia 25/05/2022 e finalizado no dia 27/05/2022. </h3>
 <hr>
 Deploy: https://viniciuslemos93.github.io/mascote-android/
-# Gif do resultado
+<h1 align="center">Gif do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./imagens/gif-projeto-android.gif">
 </div
