@@ -21,7 +21,8 @@ Deploy: https://viniciuslemos93.github.io/mascote-android/
 <h1 align="center">Gif do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./imagens/gif-projeto-android.gif">
-</div
+
+</div>
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
